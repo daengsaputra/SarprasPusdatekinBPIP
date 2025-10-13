@@ -16,4 +16,7 @@
       "dest": "public/index.php"
     }
   ]
+  {
+  "buildCommand": "composer install && npm install && npm run build"
+}
 }
