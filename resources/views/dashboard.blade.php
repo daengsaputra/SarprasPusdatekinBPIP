@@ -40,7 +40,7 @@
   .metric-link { text-decoration: none; display: block; }
   .metric-card:hover { filter: brightness(1.03); transform: translateY(-1px); transition: .15s ease; }
   .quick-actions .btn { font-weight: 700; }
-  .ico { width:28px; height:28px; margin-right:8px; opacity:.9 }
+  .ico { width:28px; height:50px; margin-right:8px; opacity:.9 }
 
   @media (prefers-color-scheme: dark) {
     .modal-content {
